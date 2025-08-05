@@ -518,3 +518,4 @@ async function processTranscript(transcript) {
   audioService.setMode(appState.audioFeedback);
   render();
 })();
+
